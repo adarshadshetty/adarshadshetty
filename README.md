@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am DevOps Engineering With 2 years of Experience in Cognizant.
+I am DevOps Engineer With 2 years of Experience in Cognizant.
 
 <!--
 **adarshadshetty/adarshadshetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
